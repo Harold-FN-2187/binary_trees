@@ -1,2 +1,2 @@
-# binary_trees
-ALX Project report on Binary trees
+
+ALX Project repo on Binary trees
